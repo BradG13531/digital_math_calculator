@@ -2,20 +2,6 @@ import conversions
 import operations
 import os
 
-# Textual is the way to go
-# https://textual.textualize.io
-
-# Blessed
-# https://blessed.readthedocs.io/en/latest/
-
-# Check out rich
-# https://github.com/Textualize/rich
-
-# Utilize Bubble Tea
-# https://www.reddit.com/r/commandline/comments/w30ppv/any_guide_to_creating_a_terminal_application/
-
-# Test issue on line 110 and division by zero errors
-
 number_list = []
 state = True
 while state:
